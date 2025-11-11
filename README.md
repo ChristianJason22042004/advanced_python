@@ -34,16 +34,16 @@ Each topic includes **well-commented, PEP 8–compliant code** designed for clar
 
 ## 🗂️ Table of Contents  
 
-1. [Printing on Screen](#1-printing-on-screen)  
-2. [Reading Data from Keyboard](#2-reading-data-from-keyboard)  
-3. [Opening and Closing Files](#3-opening-and-closing-files)  
-4. [Reading and Writing Files](#4-reading-and-writing-files)  
-5. [Exception Handling](#5-exception-handling)  
-6. [Class and Object (OOP Concepts)](#6-class-and-object-oop-concepts)  
-7. [Inheritance](#7-inheritance)  
-8. [Method Overloading and Overriding](#8-method-overloading-and-overriding)  
-9. [SQLite3 and PyMySQL (Database Connectors)](#9-sqlite3-and-pymysql-database-connectors)  
-10. [Search and Match Functions](#10-search-and-match-functions)  
+1. [Printing on Screen]
+2. [Reading Data from Keyboard]
+3. [Opening and Closing Files]
+4. [Reading and Writing Files]
+5. [Exception Handling]
+6. [Class and Object (OOP Concepts)] 
+7. [Inheritance]
+8. [Method Overloading and Overriding]
+9. [SQLite3 and PyMySQL (Database Connectors)] 
+10. [Search and Match Functions]
 
 ---
 
