@@ -1,0 +1,1 @@
+Writing values of int: 6 and float: 5.0
