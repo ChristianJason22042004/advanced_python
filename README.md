@@ -48,5 +48,3 @@ Each topic includes **well-commented, PEP 8–compliant code** designed for clar
 ---
 
 
-name = "Jason"
-print(f"Welcome, {name}!")  # Using f-string
